@@ -63,6 +63,11 @@ ecommerce-analysis/ │ ├── data.csv                         # Raw data fi
 3. Open `Ecom_data_analysis.pbix` in Power BI Desktop to explore the dashboard
 
 ## Screenshots
-> Include screenshots of your Power BI dashboard and matplotlib charts here.
+![PowerBI-1 Dashboard](images/PBI1.png)
+![PowerBI-2 Dashboard](images/PBI2.png)
+![Top purchase dates Line Chart](images/Top purchase dates.png)
+![Top products Chart](images/Top products.png)
+![Top Countries purchase count](images/Top Countries purchase count.png)
+
 
 ---
