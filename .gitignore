@@ -1,0 +1,28 @@
+# Ignore Python bytecode and cache
+_pycache_/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Ignore data files
+cleaned_ecom_data.csv
+*.csv
+
+# Ignore Power BI autosave and cache
+*.pbix~
+*.tmp
+
+# Ignore images (optional)
+*.png
+
+# Ignore virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
