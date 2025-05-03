@@ -62,7 +62,7 @@ ecommerce-analysis/ │ ├── data.csv                         # Raw data fi
 2. Run `ecom_analysis.py` to generate cleaned data and visualizations
 3. Open `Ecom_data_analysis.pbix` in Power BI Desktop to explore the dashboard
 
-## Screenshots
+## Visualization
 ![PowerBI-1 Dashboard](images/PBI1.png)
 ![PowerBI-2 Dashboard](images/PBI2.png)
 ![Top purchase dates Line Chart](images/Top purchase dates.png)
